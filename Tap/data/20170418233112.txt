@@ -1,0 +1,9 @@
+Customer Name: xiao
+Customer ID: 6475739292
+Order Number: 20170418233112
+Order Time: 2017-04-18 23:31:12
+Tom Yum Soup          6.99       1        6.99
+General Curry         8.99       1        8.99
+Pad Salad             5.99       1        5.99
+Curry Rice            8.99      12      107.88
+Total Price: C$146.73

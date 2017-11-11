@@ -1,0 +1,7 @@
+Order Number: 20170418230912
+Order Time: 2017-04-18 23:09:12
+Tom Yum Soup          6.99       1        6.99
+General Curry         8.99       1        8.99
+Pad Thai              7.99       1        7.99
+Curry Rice            8.99     123     1105.77
+Total Price: C$1276.61

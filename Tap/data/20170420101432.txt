@@ -1,0 +1,7 @@
+Customer Name: Emerald
+Customer ID: 6471234567
+Order Number: 20170420101432
+Order Time: 2017-04-20 10:14:32
+General Curry         8.99       1        8.99
+Curry Rice            8.99       1        8.99
+Total Price: C$20.32

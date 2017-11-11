@@ -1,0 +1,8 @@
+Customer Name: Emerald
+Customer ID: 6471234567
+Order Number: 20170420101319
+Order Time: 2017-04-20 10:13:19
+Fried Tofu            5.99       1        5.99
+Chicken Dumplings     4.99       2        9.98
+Spring Roll           6.99       1        6.99
+Total Price: C$25.94

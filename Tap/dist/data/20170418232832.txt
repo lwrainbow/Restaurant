@@ -1,0 +1,8 @@
+Customer Name: xiao
+Customer ID: 6475739292
+Order Number: 20170418232832
+Order Time: 2017-04-18 23:28:32
+Tom Yum Soup          6.99      12       83.88
+Chicken Dumplings     4.99      12       59.88
+Fried Rice            8.99       1        8.99
+Total Price: C$172.61

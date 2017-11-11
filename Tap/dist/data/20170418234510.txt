@@ -1,0 +1,9 @@
+Customer Name: xiao
+Customer ID: 6475739292
+Order Number: 20170418234510
+Order Time: 2017-04-18 23:45:10
+Tom Yum Soup          6.99       1        6.99
+Fried Rice            8.99       1        8.99
+Pad Sew               7.99      12       95.88
+General Curry         8.99      12      107.88
+Total Price: C$248.31

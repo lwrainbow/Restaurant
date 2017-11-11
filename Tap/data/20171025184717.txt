@@ -1,0 +1,7 @@
+Customer Name: xiao
+Customer ID: 6475739292
+Order Number: 20171025184717
+Order Time: 2017-10-25 18:47:17
+Chicken Dumplings     4.99       1        4.99
+General Thai          8.99       2       17.98
+Total Price: C$25.96

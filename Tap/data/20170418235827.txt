@@ -1,0 +1,10 @@
+Customer Name: xiao
+Customer ID: 6475739292
+Order Number: 20170418235827
+Order Time: 2017-04-18 23:58:27
+Tom Yum Soup          6.99      12       83.88
+Fried Tofu            5.99       1        5.99
+Chicken Dumplings     4.99       1        4.99
+General Curry         8.99       1        8.99
+Fried Rice            8.99       1        8.99
+Total Price: C$127.51

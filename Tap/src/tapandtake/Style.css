@@ -1,0 +1,129 @@
+/* 
+    Created on : March 10, 2017, 5:06:37 PM
+    Author     : Xiaoyu Liang
+*/
+#main-pane{
+    -fx-background-color: white;
+    -fx-font-family: Chalkboard;
+}
+
+#title-label{
+    -fx-min-width: 375;
+    -fx-min-height: 71;
+    -fx-font-size: 24;
+    -fx-font-weight: BOLD;
+    -fx-text-fill: rgb(40, 70, 75);
+    -fx-alignment: center;
+    -fx-background-color: rgb(218, 232, 166);
+}
+
+#fontsize20 {
+    -fx-text-fill: rgb(40, 70, 75);
+    -fx-font-size: 20;
+}
+
+#pink-label{
+    -fx-text-fill: #F8B9CF;
+    -fx-font-size: 20;
+}
+
+#add-button{
+    -fx-max-height: 30;
+    -fx-max-width: 30;
+    -fx-font-size: 20px;
+    -fx-text-fill: rgb(248, 185, 207);
+    -fx-background-color: white;
+    -fx-background-radius: 20;
+    -fx-border-radius: 20;
+    -fx-border-style: solid inside;
+    -fx-border-color: rgb(218, 232, 166);
+}
+
+#green-button{
+    -fx-pref-width: 375;
+    -fx-pref-height: 52;
+    -fx-font-family: Chalkboard;
+    -fx-font-size: 20px;
+    -fx-text-fill: rgb(40, 70, 75);
+    -fx-background-color: rgb(218, 232, 166);
+    -fx-background-radius: 0;
+}
+
+#pink-button2{
+    -fx-pref-width: 200;
+    -fx-pref-height: 52;
+    -fx-font-size: 20px;
+    -fx-text-fill: rgb(40, 70, 75);
+    -fx-background-color: #F8B9CF;
+}
+
+#pink-button{
+    -fx-pref-width: 100;
+    -fx-font-family: Chalkboard;
+    -fx-text-fill: rgb(40, 70, 75);
+    -fx-background-color: #F8B9CF;
+}
+
+#padding{
+    -fx-padding: 10;
+}
+
+#times-new-roman{
+    -fx-font-family: Times New Roman;
+}
+
+.list-view {
+    -fx-pref-width: 136;
+    -fx-mix-height: 540;
+    -fx-background-color: transparent;
+}
+
+.list-cell {
+    -fx-background-color: rgb(248, 185, 207);
+    -fx-text-fill: rgb(40, 70, 75);
+    -fx-font-size: 14;
+}
+
+.list-cell:filled:hover, .list-cell:filled:selected:focused, .list-cell:filled:selected{
+    -fx-background-color: white;
+}
+
+.table-view {
+    -fx-background-color: white;
+}
+
+.table-view .column-header-background{
+    -fx-background-color: linear-gradient(#131313 0%, #424141 100%);
+}
+
+.table-view .column-header-background .label{
+    -fx-background-color: transparent;
+    -fx-text-fill: white;
+}
+
+.table-view .column-header {
+    -fx-background-color: transparent;
+}
+
+.table-view .table-cell{
+    -fx-text-fill: white;
+}
+
+.table-row-cell{
+    -fx-background-color: -fx-table-cell-border-color, #616161;
+    -fx-background-insets: 0, 0 0 1 0;
+    -fx-padding: 0.0em;
+}
+
+.table-row-cell:odd{
+    -fx-background-color: -fx-table-cell-border-color, #424242;
+    -fx-background-insets: 0, 0 0 1 0;
+    -fx-padding: 0.0em;
+}
+
+.table-row-cell:selected {
+    -fx-background-color: #005797;
+    -fx-background-insets: 0;
+    -fx-background-radius: 1;
+}
+

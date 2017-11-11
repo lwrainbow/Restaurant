@@ -1,0 +1,14 @@
+Tom Yum Soup,6.99
+Regular Soup,5.99
+Imperial Roll,7.99
+Spring Roll,6.99
+Mango Salad,5.99
+Chicken Dumplings,4.99
+Fried Tofu,5.99
+Curry Rice,8.99
+General Curry,8.99
+General Thai,8.99
+Fried Rice,8.99
+Pad Salad,5.99
+Pad Thai,7.99
+Pad Sew,7.99

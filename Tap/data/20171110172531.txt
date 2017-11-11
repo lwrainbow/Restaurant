@@ -1,0 +1,10 @@
+Customer Name: Sarah
+Customer ID: 1234567899
+Order Number: 20171110172531
+Order Time: 2017-11-10 17:25:31
+Regular Soup          5.99       1        5.99
+Spring Roll           6.99       1        6.99
+Mango Salad           5.99       1        5.99
+Curry Rice            8.99       1        8.99
+General Thai          8.99       1        8.99
+Total Price: C$41.75
