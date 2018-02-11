@@ -1,0 +1,9 @@
+Customer Name: Sarah
+Customer ID: 1234567899
+Order Number: 20180211153826
+Order Time: 2018-02-11 15:38:26
+Spring Roll           6.99      20      139.80
+General Thai          8.99       1        8.99
+Pad Salad             5.99      12       71.88
+Pad Thai              7.99       1        7.99
+Total Price: C$258.39

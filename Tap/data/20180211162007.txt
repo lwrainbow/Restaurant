@@ -1,0 +1,8 @@
+Customer Name: Sarah
+Customer ID: 1234567899
+Order Number: 20180211162007
+Order Time: 2018-02-11 16:20:07
+Chicken Dumplings     4.99       1        4.99
+Pad Salad             5.99      12       71.88
+Curry Rice            8.99       3       26.97
+Total Price: C$117.34

@@ -2,6 +2,11 @@
     Created on : March 10, 2017, 5:06:37 PM
     Author     : Xiaoyu Liang
 */
+/*  color: 
+    rgb(218, 232, 166) green
+    rgb(248, 185, 207) pink
+    rgb(40, 70, 75) font_dark green                    
+*/
 #main-pane{
     -fx-background-color: white;
     -fx-font-family: Chalkboard;
@@ -93,12 +98,13 @@
 }
 
 .table-view .column-header-background{
-    -fx-background-color: linear-gradient(#131313 0%, #424141 100%);
+    /*-fx-background-color: linear-gradient(#f8b9cf 0%, #dae8a6 100%);*/
+    -fx-background-color: rgb(218, 232, 166);
 }
 
 .table-view .column-header-background .label{
     -fx-background-color: transparent;
-    -fx-text-fill: white;
+    -fx-text-fill: rgb(40, 70, 75);
 }
 
 .table-view .column-header {
@@ -106,23 +112,23 @@
 }
 
 .table-view .table-cell{
-    -fx-text-fill: white;
+    -fx-text-fill: rgb(40, 70, 75);
 }
 
 .table-row-cell{
-    -fx-background-color: -fx-table-cell-border-color, #616161;
+    /*-fx-background-color: -fx-table-cell-border-color, #616161;*/
     -fx-background-insets: 0, 0 0 1 0;
     -fx-padding: 0.0em;
 }
 
 .table-row-cell:odd{
-    -fx-background-color: -fx-table-cell-border-color, #424242;
+    /*-fx-background-color: -fx-table-cell-border-color, #424242;*/
     -fx-background-insets: 0, 0 0 1 0;
     -fx-padding: 0.0em;
 }
 
 .table-row-cell:selected {
-    -fx-background-color: #005797;
+    -fx-background-color: rgb(252, 233, 240);
     -fx-background-insets: 0;
     -fx-background-radius: 1;
 }
